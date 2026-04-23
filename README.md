@@ -132,6 +132,3 @@ data/raw/cleaned_nutrition_data.csv
 * Try more advanced models (random forest, regression regularization)
 * Build an interactive dashboard (Shiny or web app)
 
-
-
-[Your Name]
